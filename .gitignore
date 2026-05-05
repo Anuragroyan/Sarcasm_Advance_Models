@@ -1,0 +1,8 @@
+venv/
+requirement.txt
+*.onnx
+*.safetensors
+*.json
+*.txt
+*.pt
+*.pth
